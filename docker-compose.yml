@@ -38,6 +38,6 @@ services:
       - openvpn-network
 
 networks:
-  moneff-network:
+  openvpn-network:
     name: openvpn-network
 
